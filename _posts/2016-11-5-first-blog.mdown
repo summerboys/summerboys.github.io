@@ -6,10 +6,12 @@ categories: 随记
 tags: javascript 前端 chrome css html react vue Python
 author: summer
 ---
+
+
 * content
 {:toc}
 
-一直很想搭建个人博客，由于手头上的还有很多事情要做，自己的技术也不太成熟，所以就从jekyll上找到一个模板，觉得他的写的博客模板简洁明了，适合复用和重构，原地址[http://gaohaoyang.github.io/]
+一直很想搭建个人博客，由于手头上的还有很多事情要做，自己的技术也不太成熟，所以就从jekyll上找到一个模板，觉得他的写的博客模板简洁明了，适合复用和重构，[地址](http://gaohaoyang.github.io/)
 
 
 
@@ -20,6 +22,7 @@ author: summer
 
 ### Python
 在廖雪峰老师的官网开始学习的Python，大概很多Python小白的学Python都是从廖雪峰的网站开始的吧。从去年的11月份到今年的3月分，一直在断断续续的学Python。毕竟专业不是CS，自学起编程还是有很多的坑的，尤其算法的坑，在牛客上刷了很长时间，还是有很多算法题不太会做。然后，听很多人讲“前端不用算法”，随入前端坑。
+
 
 ### JavaScript
 
