@@ -14,8 +14,8 @@
      */
     var demoContent = [{
         demo_link: 'https://summerboys.github.io/mask/'
-        img_link: 'https://summerboys.github.io/mask/1.png'
-        code_link: 'https://summerboys.github/mask/'
+        img_link: 'https://github.com/summerboys/mask/blob/master/1.jpg'
+        code_link: 'https://github.com/summerboys/mask'
         title: '鼠标移入产生遮罩'
         core_tech: 'jQuery javascript'
         description: '根据鼠标移入的方向不同，产生的遮罩方向也就不相同'
