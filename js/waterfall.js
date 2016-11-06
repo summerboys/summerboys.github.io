@@ -14,7 +14,7 @@
      */
     var demoContent = [{
         demo_link: 'https://summerboys.github.io/mask/',
-        img_link: 'https://github.com/summerboys/mask/blob/master/1.jpg',
+        img_link: 'http://og7mgerg6.bkt.clouddn.com/1.jpg',
         code_link: 'https://github.com/summerboys/mask',
         title: '鼠标移入产生遮罩',
         core_tech: 'jQuery javascript',
