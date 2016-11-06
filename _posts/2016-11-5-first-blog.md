@@ -6,13 +6,14 @@ categories: 随记
 tags: javascript 前端 chrome css html react vue Python
 author: summer
 ---
+
 * content
 {:toc}
 
 
-
-
 一直很想搭建个人博客，由于自己手头上的还有很多事情要做，自己的技术也不太成熟，所以就从jekyll上找到一个模板，觉得他的写的博客模板简洁明了，适合复用和重构，适合第一次用jekyll搭建个人博客时使用. [博客原地址](http://gaohaoyang.github.io/) 
+
+
 
 
 ##随记
