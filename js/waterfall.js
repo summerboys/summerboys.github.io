@@ -26,6 +26,13 @@
         title: '响应式网站-理财宝',
         core_tech: 'javascript css html5',
         description: ' 响应式网站，适配移动端的和PC端'
+    },{
+        demo_link: 'https://summerboys.github.io/2048/',
+        img_link: 'http://og7mgerg6.bkt.clouddn.com/1.jpg',
+        code_link: 'https://summerboys.github.io/2048/',
+        title: '2048',
+        core_tech: 'javascript',
+        description: '小游戏 2048'
     }];
 
     contentInit(demoContent) //内容初始化
