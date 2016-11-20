@@ -19,6 +19,13 @@
         title: '鼠标移入产生遮罩',
         core_tech: 'jQuery javascript',
         description: '根据鼠标移入的方向不同，产生的遮罩方向也就不相同'
+    },{
+        demo_link: 'https://summerboys.github.io/responsive/',
+        img_link: 'http://og7mgerg6.bkt.clouddn.com/1.jpg',
+        code_link: 'https://summerboys.github.io/responsive/',
+        title: '响应式网站-理财宝',
+        core_tech: 'javascript css html5',
+        description: ' 响应式网站，适配移动端的和PC端'
     }];
 
     contentInit(demoContent) //内容初始化
