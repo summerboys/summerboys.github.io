@@ -10,15 +10,19 @@ icon: heart
 
 ## 关于我
 
+* 2013  本科统计学
+* 2014  吃喝玩乐
+* 2015  入坑Python
+* 2016  入坑前端
 * 2017  即将毕业于河北大学
 
 ## 联系我
 
-* GitHub：[wanglong](https://github.com/summerboys)
+* GitHub：[summer](https://github.com/summerboys)
 * email：15733207728@163.com
-* [Weibo]()
-* [知乎]()
-* [Facebook]()
+* [微博](www.weibo.com)
+* [知乎](https://www.zhihu.com)
+* [Facebook](https://facebook.com)
 * [Twitter](https://twitter.com)
 * [豆瓣](https://www.douban.com)
 

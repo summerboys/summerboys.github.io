@@ -7,7 +7,7 @@
 
 # Site settings
 title: Summer
-brief-intro: 前端
+brief-intro: front-end Web developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://summerboys.github.io" # the base hostname & protocol for your site
 
@@ -18,12 +18,12 @@ twitter_username:
 facebook_username: 
 github_username:  summerboys
 email: 15733207728@163.com
-weibo_username: 他们的征途是星辰大海
-zhihu_username: 沉默的羊羔
+weibo_username: 
+zhihu_username: 
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 苦逼的前端自学之路
+description_footer: 写写代码 看看世界
 
 # comments
 # two ways to comment, only choose one, and use your own short name
