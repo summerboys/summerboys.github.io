@@ -33,6 +33,13 @@
         title: '2048',
         core_tech: 'javascript',
         description: '小游戏 2048'
+    },{
+        demo_link: 'https://summerboys.github.io/wuziqi/',
+        img_link: 'http://og7mgerg6.bkt.clouddn.com/4.jpg',
+        code_link: 'https://summerboys.github.io/wuziqi/',
+        title: '五子棋',
+        core_tech: 'canvas',
+        description: '五子棋人机对战'
     }];
 
     contentInit(demoContent) //内容初始化
