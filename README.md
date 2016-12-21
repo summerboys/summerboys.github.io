@@ -1,6 +1,6 @@
 # 关于博客
 
-基于[原地址](http://gaohaoyang.github.io/)博客
+
 
 ## 内容 
 

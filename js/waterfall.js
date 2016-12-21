@@ -40,6 +40,13 @@
         title: '五子棋',
         core_tech: 'canvas',
         description: '五子棋人机对战'
+    },{
+        demo_link: 'https://summerboys.github.io/magnifying/',
+        img_link: 'http://og7mgerg6.bkt.clouddn.com/5.jpg',
+        code_link: 'https://summerboys.github.io/magnifying/',
+        title: 'magnifying',
+        core_tech: 'javascript jQuery',
+        description: '购物放大镜效果'
     }];
 
     contentInit(demoContent) //内容初始化
