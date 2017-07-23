@@ -1,0 +1,22 @@
+---
+layout: post
+title: "python"
+date: 2017-7-23 18:00:00 +8000
+categories: python
+tags: python
+author: summer
+---
+
+* content
+{:toc}
+
+15年底的时候写过一段时间Python，没有坚持下去，如今工作了，在业余生活中抽出时间重拾曾学习过的Python。
+
+
+
+
+## Python2.7
+
+唉。。。。
+
+
